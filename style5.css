@@ -1,0 +1,158 @@
+.div1
+{
+	background-color: white;
+	margin-top: 50px;
+	height:1000px;
+	width: 60%;
+	margin-left: 20%;
+}
+body
+{
+	background-color: grey;
+
+}
+.div2
+{
+	float:left;
+	margin-left: 8%;
+	margin-top: 5%;
+	background-color: #2C3E50;
+	height:700px;
+	width: 280px;
+}
+.div3{
+	height:220px;
+	width: 190px;
+	margin-left: 16%;
+	margin-top: 14%;
+}
+.div4
+{
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+}
+.div5
+{
+	height:20px;
+	width: 20px;
+	margin-left: 10%;
+	margin-top: 14%;
+	float:left;
+}
+.div6
+{
+	color:white;
+	margin-top: 21%;
+	padding-left:20%;
+	font-family: sans-serif;
+}
+.div7
+{
+	height:18px;
+	width: 18px;
+	margin-left: 10%;
+	margin-top: 2%;
+	float:left;
+}
+.div8
+{
+	color:white;
+	margin-top: 8%;
+	padding-left:20%;
+	font-family: sans-serif;
+}
+.div9
+{
+	height:22px;
+	width: 18px;
+	margin-left: 10%;
+	margin-top: 2%;
+	float:left;
+}
+.div10
+{
+	color:white;
+	margin-top: 8%;
+	padding-left:20%;
+	font-family: sans-serif;
+	font-size: 8;
+}
+.div11
+{
+	height:40px;
+	width: 40px;
+	margin-left: 2%;
+	margin-top: 8%;
+	float:left;
+}
+.div12
+{
+	color:black;
+	padding-left:51%;
+	padding-top:9%;
+	font-family:Arial;
+	font-size:120%;
+	font-style:bold;
+}
+.div13
+{
+	padding-left:51%;
+	padding-top:0%;
+	font-family:Arial;
+	font-size:6;
+}
+.div14
+{
+	padding-left:51%;
+	padding-top:0%;
+	font-family:Arial;
+	font-size:6;
+}
+.div15
+{
+	height:40px;
+	width:40px;
+	margin-left: 2%;
+	margin-top: 2%;
+	float:left;
+}
+.div16
+{
+	padding-left:51%;
+	padding-top:3%;
+	font-family:Arial;
+	font-size:120%;
+	font-style:bold;
+}
+.div17
+{
+	padding-left:51%;
+	padding-top:0%;
+	font-family:Arial;
+	font-size:6;
+}
+.div18
+{
+	height:40px;
+	width:40px;
+	margin-left: 2%;
+	margin-top: 2%;
+	float:left;
+}
+.div19
+{
+	color:black;
+	padding-left:51%;
+	padding-top:3%;
+	font-family:Arial;
+	font-size:120%;
+	font-style:bold;
+}
+.div20
+{
+	padding-left:51%;
+	padding-top:0%;
+	font-family:Arial;
+	font-size:6;
+}
